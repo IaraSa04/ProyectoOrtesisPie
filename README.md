@@ -4,7 +4,7 @@ Proyecto  orientado al desarrollo a la asistencia para la marcha mediante biomec
 
 📌 Descripción del proyecto
 
-El Dispositivo para la Concientización de la Dorsiflexión es un prototipo desarrollado para apoyar a personas que presentan una dorsiflexión insuficiente durante la marcha.
+El Dispositivo para la Concientización de la Dorsiflexión es un prototipo desarrollado en tpu para apoyar a personas que presentan una dorsiflexión insuficiente durante la marcha.
 
 El sistema busca detectar un movimiento inadecuado del pie y generar una señal vibratoria de retroalimentación, permitiendo que el usuario tome conciencia de su patrón de movimiento y pueda realizar una corrección durante la marcha.
 
