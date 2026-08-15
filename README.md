@@ -1,6 +1,6 @@
 🦿 Dispositivo para la Concientización de la Dorsiflexión
 
-Proyecto de Ingeniería Biomédica orientado al desarrollo de una solución de asistencia para la marcha mediante biomecánica, sensores, retroalimentación háptica, modelado 3D y manufactura digital.
+Proyecto  orientado al desarrollo a la asistencia para la marcha mediante biomecánica, sensores, retroalimentación háptica, modelado 3D y manufactura digital.
 
 📌 Descripción del proyecto
 
